@@ -13,8 +13,10 @@ public class datatypes {
        //3. character
        // follows unicode in java
        char c='r';
+       char chara = '1';
        //4. boolean
        //boolean in java doesn,t store 0 or 1 it only stores true or false and note that true or false in java is a keyword
        boolean b=true;
+       System.out.println("just print value of num:"+num);
     }
 }
