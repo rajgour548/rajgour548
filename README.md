@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- my name is raj gour
 <!-- i am a bca student
-<!--
+<!--remember the remote is pipeline whose name is origin
 **rajgour548/rajgour548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
